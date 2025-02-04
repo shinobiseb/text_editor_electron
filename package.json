@@ -22,7 +22,6 @@
     "@electron-forge/plugin-vite": "^7.6.1",
     "@electron/fuses": "^1.8.0",
     "@types/electron-squirrel-startup": "^1.0.2",
-    "@types/tailwindcss": "^3.1.0",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "@typescript-eslint/parser": "^5.0.0",
     "autoprefixer": "^10.4.20",
@@ -31,7 +30,6 @@
     "eslint-plugin-import": "^2.25.0",
     "postcss": "^8.5.1",
     "postcss-loader": "^8.1.1",
-    "tailwindcss": "^4.0.2",
     "ts-node": "^10.0.0",
     "typescript": "~4.5.4",
     "vite": "^5.0.12"
@@ -44,6 +42,7 @@
   "license": "MIT",
   "dependencies": {
     "@electron-forge/shared-types": "^7.6.1",
-    "electron-squirrel-startup": "^1.0.1"
+    "electron-squirrel-startup": "^1.0.1",
+    "tailwindcss": "^4.0.3"
   }
 }
